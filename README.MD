@@ -51,4 +51,12 @@ Performance of Repaired network B'
  GoodNet(G):
  To improve the model's capabilities, we merged the compromised BadNet B1 and the above improved model B'. The goal was to produce an enhanced combined model G.
 
- 
+Performance of GoodNet G:
+
+|        Model |  Classification Accuracy  | Attack Success Rate |
+|-------------:|----------:|------------:|
+|  G_2% | 95.900234 |  100.000000 |
+|  G_4% | 92.291504 |   99.984412 |
+| G_10% | 84.544037 |   77.209665 |
+
+![fig3]()# as16600_ML_Cyber_lab4
