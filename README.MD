@@ -37,7 +37,7 @@ B1 has '1283 'output classes (N).
 First we observe attack success rate as a function of the fraction of channels pruned. It reveals that a substantial number of neurons can be eliminated without compromising classification accuracy as shown in the figure below. It progresses in three distinct phases: initially, the removed neurons not responsive to either clean or backdoored inputs have no impact on dataset accuracy or the success of the backdoor attack. Next, neurons exclusively activated by the backdoor are pruned, reducing the backdoor attack success while preserving the accuracy of clean data. This process culminates by pruning neurons sensitive to clean inputs, resulting in reduced accuracy for the clean dataset. Consequently, the defense stops, and models are saved based on decreased accuracy levels of 2%, 4%, and 10%, labeled as model2%.h5, model4%.h5, and model10%.h5, respectively.
 
 
-![fig]()
+![fig](1.png)
 
 Performance of Repaired network B'
 |        Model |  Classification Accuracy  | Attack Success Rate |
