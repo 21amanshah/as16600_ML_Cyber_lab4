@@ -59,4 +59,4 @@ Performance of GoodNet G:
 |  G_4% | 92.291504 |   99.984412 |
 | G_10% | 84.544037 |   77.209665 |
 
-![fig3]()# as16600_ML_Cyber_lab4
+![fig3]()
