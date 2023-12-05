@@ -46,7 +46,7 @@ Performance of Repaired network B'
 |  repaired_4% | 92.291504 |   99.984412 |
 | repaired_10% | 84.544037 |   77.209665 |
 
- ![fig2]()
+ ![fig2](2.png)
 
  GoodNet(G):
  To improve the model's capabilities, we merged the compromised BadNet B1 and the above improved model B'. The goal was to produce an enhanced combined model G.
@@ -59,4 +59,4 @@ Performance of GoodNet G:
 |  G_4% | 92.291504 |   99.984412 |
 | G_10% | 84.544037 |   77.209665 |
 
-![fig3]()
+![fig3](3.png)
